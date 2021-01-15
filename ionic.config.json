@@ -1,5 +1,7 @@
 {
   "name": "vibration",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
